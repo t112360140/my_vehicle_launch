@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>my_vehicle_launch</name>
+  <name>sample_vehicle_launch</name>
   <version>0.1.0</version>
   <description>The my_vehicle_launch package</description>
   <maintainer email="t112360140@ntut.org.tw">t112360140</maintainer>
