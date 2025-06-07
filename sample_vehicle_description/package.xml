@@ -4,6 +4,7 @@
   <name>my_vehicle_description</name>
   <version>0.1.0</version>
   <description>The my_vehicle_description package</description>
+  <maintainer email="t112360140@ntut.org.tw">t112360140</maintainer>
   <license>Apache 2.0 License</license>
 
   <buildtool_depend>ament_cmake_auto</buildtool_depend>
